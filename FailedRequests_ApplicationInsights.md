@@ -1,7 +1,5 @@
 # Failed Requests alerts on Application Insights
 
-[[_TOC_]]
-
 ## Tickets names samples
 
 - FailedRequests-Alert-ordersnow-ecommerce
